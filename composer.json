@@ -33,6 +33,9 @@
             "tests/"
         ]
     },
+    "replace": {
+        "brozot/laravel-fcm": "*"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
